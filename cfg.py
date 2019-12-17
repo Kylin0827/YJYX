@@ -1,0 +1,5 @@
+g_vcode='00000006808903799478'
+class_url='http://ci.ytesting.com/api/3school/school_classes'
+teacher_url='http://ci.ytesting.com/api/3school/teachers'
+student_url='http://ci.ytesting.com/api/3school/students'
+Weburl='http://ci.ytesting.com'

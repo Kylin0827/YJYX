@@ -1,0 +1,6 @@
+--test *tc000001
+--test *tc000002
+--test *tc001001
+--test *tc001002
+--pythonpath .
+tc
